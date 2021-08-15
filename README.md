@@ -20,8 +20,7 @@ A mock-up optimizaton of my searched website.
 
 
 ## Screenshots
-![fun-horiseon](images/readme-mockexpect.png)
-<img scr="/Users/melvint/Activities/Homework/fun-horiseon/assets/images/mockexpect.png" alt="mockexpect" width="500px"/>
+![fun-horiseon](assets/images/mockexpect.png)
 
 ## License
 MIT
