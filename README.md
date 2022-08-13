@@ -1,6 +1,6 @@
 # fun-horiseon
 
-[link to LIVE site](https://github.com/Mvint2647/fun-horiseon)
+[link to LIVE site](https://mvint2647.github.io/fun-horiseon/)
 
 
 ## Table of Contents
